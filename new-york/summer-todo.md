@@ -8,3 +8,4 @@
 - Manhattanhenge (July 11-12 8:20pm)
 - Picnic in the Central Park
 - Visit The Green-Wood Cemetery in Brooklyn
+- Visit the Governor’s Island
