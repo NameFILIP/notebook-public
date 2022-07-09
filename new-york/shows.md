@@ -1,8 +1,12 @@
 # Musicals
 
-## Buy at TKTS
+## TKTS
+
+Buy same day tickets at [TKTS locations](https://www.tdf.org/nyc/7/tkts-ticket-booths) at up to 50% off.
 
 ## TodayTix
+
+Buy discounted tickets on [TodayTix](https://www.todaytix.com/nyc/category/all-shows)
 
 ## Lotteries and Rush tickets
 
