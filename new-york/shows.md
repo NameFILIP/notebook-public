@@ -6,7 +6,7 @@ Buy same day tickets at [TKTS locations](https://www.tdf.org/nyc/7/tkts-ticket-b
 
 ## TodayTix
 
-Buy discounted tickets on [TodayTix](https://www.todaytix.com/nyc/category/all-shows)
+Buy discounted tickets on [TodayTix](https://www.todaytix.com/nyc/category/all-shows).
 
 ## Lotteries and Rush tickets
 
