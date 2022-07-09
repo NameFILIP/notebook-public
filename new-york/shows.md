@@ -15,6 +15,5 @@
     - Lion King - https://lottery.broadwaydirect.com/show/the-lion-king/
     - Tina - https://lottery.broadwaydirect.com/show/tina-ny/
     - Wicked - https://lottery.broadwaydirect.com/show/wicked/
-
 - http://broadwayforbrokepeople.com/
 - https://playbill.com/discount
