@@ -7,3 +7,4 @@
 - Shakespeare in the Park - https://publictheater.org/programs/shakespeare-in-the-park/free-shakespeare-in-the-park/
 - Manhattanhenge (July 11-12 8:20pm)
 - Picnic in the Central Park
+- Visit The Green-Wood Cemetery in Brooklyn
