@@ -9,3 +9,7 @@
 - Picnic in the Central Park
 - Visit The Green-Wood Cemetery in Brooklyn
 - Visit the Governor’s Island ([ferry info](https://www.govisland.com/visit-the-island/reopening-updates))
+- Visit United Nations HQ
+- Visit Brooklyn botanique garden
+- Stroll through the Highline park
+- Walk on the Brooklyn Bridge
