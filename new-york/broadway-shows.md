@@ -25,6 +25,7 @@
 - Company - https://companylottery.com/
 - Dear Evan Hansen - https://dearevanhansenlottery.com/
 - Phantom of the Opera - https://phantombroadwaylottery.com/
+- A Strange Loop - https://strangeloopmusical.com/lotteryandrush/
 - Hamilton - https://hamiltonmusical.com/lottery/
 - The Minutes - https://theminuteslottery.com/
 - The Music Man - https://musicmanonbroadway.com/tickets/ (rush tickets at the box office)
