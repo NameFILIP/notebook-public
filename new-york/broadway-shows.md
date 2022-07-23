@@ -1,13 +1,5 @@
 # Broadway Shows
 
-## TKTS
-
-Buy same day tickets at [TKTS locations](https://www.tdf.org/nyc/7/tkts-ticket-booths) at up to 50% off.
-
-## TodayTix
-
-Buy discounted tickets on [TodayTix](https://www.todaytix.com/nyc/category/all-shows).
-
 ## Lotteries and Rush tickets
 
 - https://lottery.broadwaydirect.com/
@@ -37,3 +29,11 @@ Buy discounted tickets on [TodayTix](https://www.todaytix.com/nyc/category/all-s
 - The Music Man (Hugh Jackman?!) - https://musicmanonbroadway.com/tickets/ (rush tickets at the box office)
 - https://playbill.com/discount
 - http://broadwayforbrokepeople.com/
+
+## TKTS
+
+Buy same day tickets at [TKTS locations](https://www.tdf.org/nyc/7/tkts-ticket-booths) at up to 50% off.
+
+## TodayTix
+
+Buy discounted tickets on [TodayTix](https://www.todaytix.com/nyc/category/all-shows).
