@@ -24,9 +24,10 @@
 - Come from Away - - https://comefromawaylottery.com/
 - Company - https://companylottery.com/
 - Dear Evan Hansen - https://dearevanhansenlottery.com/
+- Phantom of the Opera - https://phantombroadwaylottery.com/
 - Hamilton - https://hamiltonmusical.com/lottery/
 - The Minutes - https://theminuteslottery.com/
-- The Music Man (Hugh Jackman?!) - https://musicmanonbroadway.com/tickets/ (rush tickets at the box office)
+- The Music Man - https://musicmanonbroadway.com/tickets/ (rush tickets at the box office)
 - https://playbill.com/discount
 - http://broadwayforbrokepeople.com/
 
