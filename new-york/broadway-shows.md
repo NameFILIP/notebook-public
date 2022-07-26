@@ -42,4 +42,4 @@ Buy discounted tickets on [TodayTix](https://www.todaytix.com/nyc/category/all-s
 
 ## Playbill
 
-See the list of current/upcoming shows: https://www.playbill.com/productions
+The list of current/upcoming shows: https://www.playbill.com/productions
