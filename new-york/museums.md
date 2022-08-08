@@ -48,6 +48,6 @@
 1. The New Museum
 1. Neue Galerie
 1. 9/11 Memorial & Museum
+1. Museum of Sex
 1. Morgan Library & Museum
 1. Museum of Chinese in America
-1. Museum of Sex
