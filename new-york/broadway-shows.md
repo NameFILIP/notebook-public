@@ -9,7 +9,6 @@
     - Mr. Saturday Night - https://lottery.broadwaydirect.com/show/msn-ny/
     - Six - https://lottery.broadwaydirect.com/show/six-ny/
     - Lion King - https://lottery.broadwaydirect.com/show/the-lion-king/
-    - Tina - https://lottery.broadwaydirect.com/show/tina-ny/
     - Wicked - https://lottery.broadwaydirect.com/show/wicked/
 - https://www.luckyseat.com/
     - Funny Girl - https://www.luckyseat.com/shows/funnygirl-newyork
