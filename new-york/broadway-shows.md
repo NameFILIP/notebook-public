@@ -46,3 +46,10 @@ The list of current/upcoming shows: https://www.playbill.com/productions
 ## Tony Award for Best Musical
 
 - https://en.m.wikipedia.org/wiki/Tony_Award_for_Best_Musical
+
+## Immersive Theater
+- Bottom of the Ocean
+- Blue Man Group
+- Speakeasy Magick
+- Drunk Shakespeare
+- The Heist
