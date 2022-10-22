@@ -6,11 +6,11 @@
 - ~~Manhattanhenge (July 11-12 8:20pm)~~
 - ~~Movie night in Bryant Park (Monday 8pm) - https://bryantpark.org/calendar/month~~
 - ~~Stroll through the Highline park~~
-- Free kayaking - https://www.downtownboathouse.org/
+- ~~Free kayaking - https://www.downtownboathouse.org/~~
+- ~~Visit The Green-Wood Cemetery in Brooklyn~~
+- ~~Visit United Nations HQ~~
 - Yoga in Bryant Park (Tuesday 10am) - https://bryantpark.org/calendar/month
 - Shakespeare in the Park - https://publictheater.org/programs/shakespeare-in-the-park/free-shakespeare-in-the-park/
-- Visit The Green-Wood Cemetery in Brooklyn
-- Visit United Nations HQ
 - Visit Brooklyn botanique garden
 - Walk on the Brooklyn Bridge
 - Jazz at Lincoln Center
