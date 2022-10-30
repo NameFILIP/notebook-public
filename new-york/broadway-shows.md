@@ -28,6 +28,7 @@
 - Hamilton - https://hamiltonmusical.com/lottery/
 - POTUS - https://potusbway.com/lottery
 - The Music Man - https://musicmanonbroadway.com/tickets/ (rush tickets at the box office)
+- Chicago (rush tickets at the box office)
 - https://playbill.com/discount
 - http://broadwayforbrokepeople.com/
 
