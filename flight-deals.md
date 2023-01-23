@@ -28,17 +28,17 @@
 
 ## EU
 1. Air France
-  - https://wwws.airfrance.us/deals
-  - https://wwws.airfrance.us/en-us/flight-deals
+    - https://wwws.airfrance.us/deals
+    - https://wwws.airfrance.us/en-us/flight-deals
 1. British
-  - https://www.britishairways.com/en-us/offers/sale
+    - https://www.britishairways.com/en-us/offers/sale
 1. KLM
-  - https://www.klm.com/deals
+    - https://www.klm.com/deals
 1. Turkish
-  - https://www.turkishairlines.com/en-int/flights/
+    - https://www.turkishairlines.com/en-int/flights/
 
 ## Asia
 1. Qatar
-  - https://www.qatarairways.com/en-us/offers.html
+    - https://www.qatarairways.com/en-us/offers.html
 1. Ethihad
-  - https://www.etihad.com/en-us/book/special-offers
+    - https://www.etihad.com/en-us/book/special-offers
