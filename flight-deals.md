@@ -25,6 +25,8 @@
 1. Hawaiian
     - https://www.hawaiianairlines.com/deals-and-offers/flash-sale
     - https://www.hawaiianairlines.com/deals-and-offers/flights/hawaii
+1. AeroMexico
+    - https://aeromexico.com/en-us/promotions/flight-deals
 
 ## EU
 1. Air France
