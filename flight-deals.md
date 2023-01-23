@@ -1,5 +1,7 @@
 # Flight Deals
 
+## US/CA
+
 1. Frontier
     - https://flights.flyfrontier.com/en/
 1. Spirit
