@@ -6,6 +6,7 @@
     - Aladdin - https://lottery.broadwaydirect.com/show/aladdin/
     - MJ - https://lottery.broadwaydirect.com/show/mj-ny/
     - Six - https://lottery.broadwaydirect.com/show/six-ny/
+    - Sweeney Todd - https://lottery.broadwaydirect.com/show/sweeney-todd-ny/
     - Lion King - https://lottery.broadwaydirect.com/show/the-lion-king/
     - Wicked - https://lottery.broadwaydirect.com/show/wicked/
 - https://www.luckyseat.com/
