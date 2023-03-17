@@ -19,6 +19,7 @@
     - Mrs. Doubtfire - rush tickets in the app
     - Take Me Out - rush tickets in the app
 - Phantom of the Opera - https://phantombroadwaylottery.com/
+- Some Like it Hot - https://somelikeithotmusicallottery.com/
 - Hamilton - https://hamiltonmusical.com/lottery/
 - Chicago (rush tickets at the box office)
 - https://playbill.com/discount
