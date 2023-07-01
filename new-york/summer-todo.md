@@ -11,7 +11,9 @@
 - ~~Visit United Nations HQ~~
 - Yoga in Bryant Park (Tuesday 10am) - https://bryantpark.org/calendar/month
 - Shakespeare in the Park - https://publictheater.org/programs/shakespeare-in-the-park/free-shakespeare-in-the-park/
-- Visit Brooklyn botanique garden
+- Visit Brooklyn Botanique garden
 - Walk on the Brooklyn Bridge
 - Jazz at Lincoln Center
 - Museum of Natural History
+- Drunk Shakespeare
+- SoJo Spa, New Jersey
