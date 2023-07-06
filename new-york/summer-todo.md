@@ -17,3 +17,4 @@
 - Museum of Natural History
 - Drunk Shakespeare
 - SoJo Spa, New Jersey
+- See a Yankees game
