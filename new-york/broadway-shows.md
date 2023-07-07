@@ -22,8 +22,8 @@
 - Some Like it Hot - https://somelikeithotmusicallottery.com/
 - Hamilton - https://hamiltonmusical.com/lottery/
 - Chicago (rush tickets at the box office)
-- Life of Pi - http://lifeofpilottery.com/
-- Kimberly Akimbo - http://rush.telecharge.com/
+- Life of Pi - https://lifeofpilottery.com/
+- Kimberly Akimbo - https://rush.telecharge.com/
 - https://playbill.com/discount
 - http://broadwayforbrokepeople.com/
 
