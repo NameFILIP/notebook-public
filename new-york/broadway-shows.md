@@ -11,7 +11,6 @@
     - Lion King - https://lottery.broadwaydirect.com/show/the-lion-king/
     - Wicked - https://lottery.broadwaydirect.com/show/wicked/
 - https://www.luckyseat.com/
-    - Funny Girl - https://www.luckyseat.com/shows/funnygirl-newyork
     - Hadestown - https://www.luckyseat.com/shows/hadestown-newyork
     - Moulin Rouge - https://www.luckyseat.com/shows/moulinrouge!themusical-newyork
     - The Book of Mormon - https://www.luckyseat.com/shows/thebookofmormon-newyork
