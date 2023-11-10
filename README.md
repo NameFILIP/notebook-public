@@ -6,3 +6,4 @@
 - [Summer To-Do](/new-york/summer-todo.md)
 - [Museums](/new-york/museums.md)
 - [Flight Deals](/flight-deals.md)
+- [Free Cruises](/free-cruises.md)
