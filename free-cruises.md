@@ -5,7 +5,7 @@ This article contains full information on how to get multiple free cruises: http
 
 ## Personal experience
 
-Even though getting a "Wyndham Rewards Earner Card" gives more benefits like free $100 dinner at Caesars, complimentary stays in Dubai and Bahamas, it requires getting a credit card with an annual fee, so it's not completely free. I personally went the other route:
+Even though getting a "Wyndham Rewards Earner Card" gives more benefits like a free $100 dinner at Caesars, and complimentary stays in Dubai and Bahamas, it requires getting a credit card with an annual fee, so it's not completely free. I went the other route:
 
 1. Google a 3 months "free trial of the FoundersCard" (not a credit card)
 2. The next day, go to https://founderscard.com/pages/cancel and attempt canceling the membership, it should offer you free 3 months of full membership
