@@ -1,7 +1,9 @@
 # Free Cruises
 
 ## General information
-This article contains full information on how to get multiple free cruises: https://frequentmiler.com/how-to-get-53-free-nights-of-vacation-from-a-single-credit-card/
+This article contains full information on how to get multiple free cruises: 
+* Article: https://frequentmiler.com/how-to-get-53-free-nights-of-vacation-from-a-single-credit-card/
+* Video: https://youtu.be/RpPK8okPXdE?si=aiJArK0WnpfOxU2D
 
 ## Personal experience
 
