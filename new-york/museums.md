@@ -6,7 +6,7 @@
     - The Temple of Dendur
     - Vincent van Gogh’s Self Portrait with a Straw Hat
     - Monet’s Bridge over a Pond of Water Lilies
-1. American Museum of Natural History
+1. [x] American Museum of Natural History
     - Hayden Planetarium (one of the best planetariums in the world)
     - The Milstein Hall of Ocean Life (for blue whale)
     - The Hall of Saurischian Dinosaurs (for the iconic Tyrannosaurus Rex skeleton)
