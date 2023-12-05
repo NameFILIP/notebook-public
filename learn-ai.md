@@ -8,6 +8,9 @@
 
 ## Courses
 
+### deeplearning.ai
+- [Beginner to Advanced](https://www.deeplearning.ai/courses/) (points to courses on Coursera)
+
 ### Coursera
 - [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction)
 - [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
