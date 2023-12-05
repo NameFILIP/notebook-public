@@ -8,8 +8,9 @@
 
 ## Courses
 
-### www.deeplearning.ai
-- 
+### Coursera
+- [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction)
+- [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 
 ## Resources
 - [Chatbot Arena Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)
