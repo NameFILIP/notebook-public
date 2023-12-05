@@ -10,10 +10,13 @@
 
 ### deeplearning.ai
 - [Beginner to Advanced](https://www.deeplearning.ai/courses/) (points to courses on Coursera)
+- [Short courses](https://www.deeplearning.ai/short-courses/)
 
 ### Coursera
 - [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction)
 - [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
+
+### 
 
 ## Resources
 - [Chatbot Arena Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)
