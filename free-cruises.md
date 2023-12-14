@@ -9,7 +9,7 @@ These links contain full information on how to get multiple free cruises:
 
 Even though getting a "Wyndham Rewards Earner Card" gives more benefits like a free $100 dinner at Caesars and complimentary stays in Dubai and Bahamas, it requires getting a credit card with an annual fee, so it's not completely free. I went the other route:
 
-1. Google a 3-month "free trial of the FoundersCard" (not a credit card). For example, here is one such [search result](https://founderscard.com/invite?code=VIP1SHAWN593).
+1. Google a 3-month "free trial of the FoundersCard" (not a credit card). For example, here is one such [search results](https://founderscard.com/invite?code=VIP1SHAWN593).
 2. The next day, go to https://founderscard.com/pages/cancel and attempt canceling the membership, it should offer you free 3 months of full membership.
 3. Set a reminder to cancel the membership before 3 months run out to not be charged.
 4. One of the benefits of the full membership is the "Complimentary Diamond Caesars" status, request the benefit. It takes ~2 weeks to receive it. Keep in mind that the status resets on the 1st of January, so it's better to request the benefit at the beginning of the year.
