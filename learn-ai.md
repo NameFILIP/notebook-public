@@ -18,7 +18,8 @@
 - [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction)
 - [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 
-### 
+### fast.ai
+- [Practical Deep Learning for Coders](https://course.fast.ai/)
 
 ## Resources
 - [Chatbot Arena Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)
