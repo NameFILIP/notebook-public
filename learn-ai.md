@@ -14,7 +14,7 @@
 - [Short courses](https://www.deeplearning.ai/short-courses/)
 
 ### Coursera
-- [Matrix Algebra for Engineers](https://www.coursera.org/learn/matrix-algebra-engineers)
+- [AI for Everyone](https://www.coursera.org/learn/ai-for-everyone)
 - [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction)
 - [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 
