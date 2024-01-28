@@ -12,7 +12,7 @@ Even though getting a "Wyndham Rewards Earner Card" gives more benefits like a f
 1. Google a 3-month "free trial of the FoundersCard" (not a credit card). For example, here is one such [search results](https://founderscard.com/invite?code=VIP1SHAWN593).
 2. The next day, go to https://founderscard.com/pages/cancel and attempt canceling the membership, it should offer you free 3 months of full membership.
 3. Set a reminder to cancel the membership before 3 months run out to not be charged.
-4. One of the benefits of the full membership is the "Complimentary Diamond Caesars" status, request the benefit. It takes ~2 weeks to receive it. Keep in mind that the status resets on the 1st of January, so it's better to request the benefit at the beginning of the year.
+4. One of the benefits of the full membership is the "[Complimentary Diamond Caesars](https://founderscard.com/benefits/caesars-total-rewards)" status, request the benefit. It takes ~2 weeks to receive it. Keep in mind that the status resets on the 1st of January, so it's better to request the benefit at the beginning of the year.
 5. Caesars Diamond status allows getting free cruises from:
     * Holland America: https://oceanplayersclub.com/hollandamericamatch/
     * Princess: https://oceanplayersclub.com/princessmatch/
