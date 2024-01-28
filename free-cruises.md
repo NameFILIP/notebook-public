@@ -14,7 +14,7 @@ Even though getting a "Wyndham Rewards Earner Card" gives more benefits like a f
 3. Set a reminder to cancel the membership before 3 months run out to not be charged.
 4. Create a [Caesars Rewards](https://www.caesars.com/a/security/register.aspx) account.
 5. One of the benefits of the full membership is the "[Complimentary Diamond Caesars](https://founderscard.com/benefits/caesars-total-rewards)" status, request the benefit (provide the Caesars Rewards account number that was created at step 4). It takes ~2 weeks to receive it.
-6. Caesars Diamond status allows getting free cruises from:
+6. Caesars Diamond status allows getting free cruises from the following websites. (You will have to upload a screenshot that proves that you have Caesars Diamond status. You can see an example in the article above):
     * Holland America: https://oceanplayersclub.com/hollandamericamatch/
     * Princess: https://oceanplayersclub.com/princessmatch/
     * Carnival: https://www.carnival.com/Registration/Promotions/casino-funmatch
