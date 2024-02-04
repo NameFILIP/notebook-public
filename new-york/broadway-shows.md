@@ -5,7 +5,6 @@
 - https://lottery.broadwaydirect.com/
     - Aladdin - https://lottery.broadwaydirect.com/show/aladdin/
     - MJ - https://lottery.broadwaydirect.com/show/mj-ny/
-    - Shucked - https://lottery.broadwaydirect.com/show/shucked-ny/
     - Six - https://lottery.broadwaydirect.com/show/six-ny/
     - Sweeney Todd - https://lottery.broadwaydirect.com/show/sweeney-todd-ny/
     - Lion King - https://lottery.broadwaydirect.com/show/the-lion-king/
@@ -14,6 +13,8 @@
     - Hadestown - https://www.luckyseat.com/shows/hadestown-newyork
     - Moulin Rouge - https://www.luckyseat.com/shows/moulinrouge!themusical-newyork
     - The Book of Mormon - https://www.luckyseat.com/shows/thebookofmormon-newyork
+    - Cabaret - https://www.luckyseat.com/shows/cabaretatthekitkatclub-newyork-2023Oct
+    - SPAMALOT - https://www.luckyseat.com/shows/montypythonsspamalot-newyork-2023Aug
 - TodayTix app
     - Harry Potter - lottery in the app
     - Mrs. Doubtfire - rush tickets in the app
