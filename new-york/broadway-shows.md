@@ -17,20 +17,18 @@
     - SPAMALOT - https://www.luckyseat.com/shows/montypythonsspamalot-newyork-2023Aug
 - TodayTix app
     - Harry Potter - lottery in the app
-    - Mrs. Doubtfire - rush tickets in the app
-    - Take Me Out - rush tickets in the app
-- Phantom of the Opera - https://phantombroadwaylottery.com/
-- Some Like it Hot - https://somelikeithotmusicallottery.com/
-- Hamilton - https://hamiltonmusical.com/lottery/
+    - & Juliet - rush tickets in the app
+    - ...
+- https://rush.telecharge.com/
+    - ...
+- Hamilton - [https://hamiltonmusical.com/lottery/](https://hamiltonmusical.com/new-york/tickets/#lottery_modal)
 - Chicago (rush tickets at the box office)
-- Life of Pi - https://lifeofpilottery.com/
-- Kimberly Akimbo - https://rush.telecharge.com/
 - https://playbill.com/discount
 - http://broadwayforbrokepeople.com/
 
 ## TKTS
 
-Buy same day tickets at [TKTS locations](https://www.tdf.org/nyc/7/tkts-ticket-booths) at up to 50% off.
+Buy same-day tickets at [TKTS locations](https://www.tdf.org/nyc/7/tkts-ticket-booths) at up to 50% off.
 
 ## TodayTix
 
