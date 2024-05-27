@@ -57,3 +57,15 @@
 - https://www.timeout.com/newyork/museums/free-museum-days-in-nyc
 - https://freetoursbyfoot.com/free-museums-new-york-city/
 - https://culturepass.nyc/
+
+## To Visit
+- Brooklyn Botanic Garden
+- Cooper Hewitt
+- Intrepid Museum
+- The Met Cloisters
+- The Metropolitan Museum of Art
+- MoMA PS1
+- The Morgan Library & Museum
+- The Museum of Modern Art
+- New York Transit Museum
+- Whitney Museum of American Art
