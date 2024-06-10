@@ -13,8 +13,8 @@
 - [x] Walk on the Brooklyn Bridge
 - [x] Museum of Natural History
 - [x] See a Yankees game
-- Shakespeare in the Park - https://publictheater.org/programs/shakespeare-in-the-park/free-shakespeare-in-the-park/
-- Visit Brooklyn Botanique garden
-- Jazz at Lincoln Center
-- Drunk Shakespeare
-- SoJo Spa, New Jersey
+- [ ] Shakespeare in the Park - https://publictheater.org/programs/shakespeare-in-the-park/free-shakespeare-in-the-park/
+- [ ] Visit Brooklyn Botanique garden
+- [ ] Jazz at Lincoln Center
+- [ ] Drunk Shakespeare
+- [ ] SoJo Spa, New Jersey
